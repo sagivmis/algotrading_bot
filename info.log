@@ -1,0 +1,1205 @@
+2024-04-30 18:03:00,229 INFO	 :: hey
+2024-04-30 18:03:00,230 WARNING	 :: hey
+2024-05-01 01:18:52,569 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 01:29:26,222 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 01:29:36,936 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 12:44:59,375 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 12:50:37,615 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 12:50:38,976 INFO	 :: Websocket connected
+2024-05-01 12:50:38,976 INFO	 :: Binance websocket connection started
+2024-05-01 12:52:18,659 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 12:52:20,759 INFO	 :: Websocket connected
+2024-05-01 12:52:20,760 INFO	 :: Binance websocket connection started
+2024-05-01 12:52:54,647 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 12:52:55,903 INFO	 :: Websocket connected
+2024-05-01 12:52:55,903 INFO	 :: Binance websocket connection started
+2024-05-01 12:56:01,279 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 12:56:02,607 INFO	 :: Websocket connected
+2024-05-01 12:56:02,607 INFO	 :: Binance websocket connection started
+2024-05-01 12:56:48,316 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 12:56:50,354 INFO	 :: Websocket connected
+2024-05-01 12:56:50,355 INFO	 :: Binance websocket connection started
+2024-05-01 12:58:23,837 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 12:58:25,167 INFO	 :: Websocket connected
+2024-05-01 12:58:25,168 INFO	 :: Binance websocket connection started
+2024-05-01 13:08:55,102 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 13:08:56,489 INFO	 :: Websocket connected
+2024-05-01 13:08:56,489 INFO	 :: Binance websocket connection started
+2024-05-01 13:29:57,899 ERROR	 :: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714559397572, 'signature': '641d1e865802c4d5c835307c3960d97f0b675e2f3631b4ba428f700a35f4febb'} was provided
+2024-05-01 13:29:57,904 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 13:29:59,252 INFO	 :: Websocket connected
+2024-05-01 13:29:59,252 INFO	 :: Binance websocket connection started
+2024-05-01 13:30:17,387 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:17,387 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:17,522 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:17,523 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:17,536 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:17,537 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:17,788 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:17,788 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:17,985 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:17,985 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:18,093 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:18,094 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:18,514 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:18,515 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:19,072 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:19,073 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:19,886 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:19,886 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:20,027 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:20,027 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:20,211 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:20,211 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:20,482 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:20,483 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:21,206 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:21,207 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:21,248 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:21,249 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:21,410 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:21,412 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:22,059 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:22,061 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:23,939 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:23,941 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:24,473 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:24,474 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:27,807 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:27,808 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:28,781 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:28,781 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:28,944 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:28,945 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:29,460 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:29,461 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:29,520 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:29,521 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:30,076 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:30,076 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:30,103 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:30,103 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:31,148 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:31,149 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:34,745 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:34,745 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:34,886 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:34,887 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:34,887 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:34,888 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:34,918 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:34,918 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:34,944 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:34,944 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:35,116 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:35,117 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:35,226 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:35,227 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:36,482 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:36,484 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:38,376 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:38,376 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:38,473 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:38,473 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:38,831 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:38,832 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:41,448 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:41,448 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:42,001 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:42,001 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:42,222 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:42,222 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:42,266 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:42,266 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:42,394 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:42,394 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:42,573 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:42,573 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:43,099 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:43,099 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:45,123 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:45,123 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:46,457 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:46,457 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:47,145 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:47,145 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:47,763 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:47,763 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:48,682 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:48,682 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:49,722 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:49,723 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:50,025 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:50,027 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:50,163 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:50,164 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:50,942 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:50,942 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:51,101 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:51,101 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:52,039 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:52,041 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:53,838 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:53,839 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:55,282 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:55,282 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:55,503 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:55,504 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:55,926 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:55,926 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:57,156 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:57,157 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:57,983 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:57,984 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:58,228 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:58,229 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:58,428 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:58,429 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:30:59,112 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:30:59,113 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:01,577 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:01,577 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:02,241 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:02,242 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:02,424 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:02,425 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:02,565 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:02,566 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:04,131 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:04,132 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:04,445 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:04,445 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:05,408 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:05,408 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:05,996 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:05,997 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:06,149 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:06,150 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:06,330 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:06,331 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:08,500 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:08,500 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:09,014 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:09,015 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:09,178 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:09,179 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:09,563 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:09,563 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:09,666 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:09,667 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:09,782 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:09,782 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:10,068 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:10,069 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:11,199 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:11,200 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:12,191 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:12,191 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:12,314 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:12,314 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:15,402 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:15,402 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:15,735 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:15,735 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:17,322 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:17,324 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:17,337 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:17,337 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:18,055 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:18,055 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:18,283 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:18,283 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:18,326 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:18,327 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:18,455 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:18,456 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:19,178 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:19,180 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:20,564 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:20,565 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:23,243 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:23,244 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:24,466 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:24,467 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:25,196 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:25,196 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:27,050 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:27,050 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:27,195 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:27,195 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:27,592 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:27,592 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:27,851 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:27,852 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:28,140 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:28,140 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:28,215 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:28,215 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:29,465 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:29,465 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:29,844 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:29,845 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:30,002 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:30,003 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:30,183 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:30,183 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:30,300 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:30,300 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:30,349 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:30,349 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:30,443 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:30,444 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:30,571 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:30,572 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:31,169 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:31,170 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:35,572 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:35,573 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:38,161 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:38,161 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:40,122 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:40,123 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:40,910 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:40,910 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:41,195 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:41,195 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:41,305 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:41,305 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:41,484 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:41,484 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:41,553 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:41,553 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:42,055 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x00000218C864AB80>>: 'dict' object is not callable
+2024-05-01 13:31:42,056 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:47,556 ERROR	 :: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714559506650, 'signature': '17d2f9ed800d4dfa849024d5077d203dbe6800802997fca668fc9725bca87ff3'} was provided
+2024-05-01 13:31:47,557 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 13:31:48,927 INFO	 :: Websocket connected
+2024-05-01 13:31:48,927 INFO	 :: Binance websocket connection started
+2024-05-01 13:31:49,974 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:31:49,974 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:50,233 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:31:50,233 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:50,571 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:31:50,571 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:50,783 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:31:50,783 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:51,604 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:31:51,606 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:52,217 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:31:52,219 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:53,955 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:31:53,957 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:54,088 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:31:54,088 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:54,284 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:31:54,284 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:54,353 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:31:54,353 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:58,619 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:31:58,619 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:31:59,510 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:31:59,510 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:06,987 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:06,988 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:09,105 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:09,106 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:09,109 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:09,110 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:09,330 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:09,331 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:09,437 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:09,438 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:09,883 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:09,885 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:10,243 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:10,245 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:10,957 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:10,957 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:14,688 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:14,689 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:16,631 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:16,632 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:19,132 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:19,132 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:19,637 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:19,639 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:20,273 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:20,273 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:21,143 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:21,144 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:24,057 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:24,059 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:24,422 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:24,423 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:24,466 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:24,466 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:34,534 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:34,534 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:34,907 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:34,907 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:36,330 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:36,332 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:37,476 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:37,478 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:38,607 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:38,608 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:40,233 ERROR	 :: error from callback <bound method BinanceFuturesClient.on_message of <modules.binance_futures.BinanceFuturesClient object at 0x000002B1F145AB50>>: 'dict' object is not callable
+2024-05-01 13:32:40,234 ERROR	 :: Binance websocket connection error 'dict' object is not callable
+2024-05-01 13:32:50,121 ERROR	 :: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714559569263, 'signature': '7031fa489330bf158abd4d05a187f10043ebf787c3be8973f1a18fd280352b37'} was provided
+2024-05-01 13:32:50,127 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 13:32:51,498 INFO	 :: Websocket connected
+2024-05-01 13:32:51,499 INFO	 :: Binance websocket connection started
+2024-05-01 14:10:51,364 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714561850495, 'signature': '69631f9909ecd0c3c206d480c68b9890693ab6c796ae5974a1d436cf178ae560'} was provided.
+Message: None
+2024-05-01 14:10:51,366 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 14:10:52,699 INFO	 :: Websocket connected
+2024-05-01 14:10:52,700 INFO	 :: Binance websocket connection started
+2024-05-01 14:12:43,418 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714561963090, 'signature': '1b797d14d085e665f4c57d35274371069d5997d9a805f1336ec0358ef8274c8e'} was provided.
+Message: None
+2024-05-01 14:12:43,425 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 14:12:44,833 INFO	 :: Websocket connected
+2024-05-01 14:12:44,834 INFO	 :: Binance websocket connection started
+2024-05-01 14:14:03,283 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714562042391, 'signature': 'e9733b16000ff3fd9d0933a1fc4400bdd7930ccb2122267ea1e2db1562c109d0'} was provided.
+Message: None
+2024-05-01 14:14:03,287 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 14:14:04,648 INFO	 :: Websocket connected
+2024-05-01 14:14:04,648 INFO	 :: Binance websocket connection started
+2024-05-01 14:15:29,651 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714562128793, 'signature': '806d9a31cbd1f48e9df45d1a016d3bd603523b9f591301f870fc0750ba31969b'} was provided.
+Message: None
+2024-05-01 14:15:29,656 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 14:15:31,002 INFO	 :: Websocket connected
+2024-05-01 14:15:31,002 INFO	 :: Binance websocket connection started
+2024-05-01 16:06:07,758 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714568766910, 'signature': 'd426c65e0b8ce48dd010735b9c10ff88c2cbe4ac13adabf0d42db9eb6d32475e'} was provided.
+Message: None
+2024-05-01 16:06:07,760 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 16:06:09,136 INFO	 :: Websocket connected
+2024-05-01 16:06:09,136 INFO	 :: Binance websocket connection started
+2024-05-01 16:06:30,567 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714568789721, 'signature': '29381b2fa8d7ee02f1302511878674b0a909ffc47e910214a66305434c2e396d'} was provided.
+Message: None
+2024-05-01 16:06:30,574 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 16:06:31,917 INFO	 :: Websocket connected
+2024-05-01 16:06:31,917 INFO	 :: Binance websocket connection started
+2024-05-01 16:19:54,174 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714569593332, 'signature': 'ecf1bc7eaba46537be987625c893ea259502f158b052758dd55222957b671b30'} was provided.
+Message: None
+2024-05-01 16:19:54,177 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 16:19:55,539 INFO	 :: Websocket connected
+2024-05-01 16:19:55,540 INFO	 :: Binance websocket connection started
+2024-05-01 16:21:41,502 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714569700598, 'signature': '86f127bd95634dbdadcd96eec12eb2c044f01bb0fe047a67e03b59c1ae1682fc'} was provided.
+Message: None
+2024-05-01 16:21:41,504 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 16:21:42,851 INFO	 :: Websocket connected
+2024-05-01 16:21:42,851 INFO	 :: Binance websocket connection started
+2024-05-01 16:24:17,199 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714569856316, 'signature': '2ed0e2feac8dab7945062596db6b3a1b279aeb4eff45ddecb9990b50bd274143'} was provided.
+Message: None
+2024-05-01 16:24:17,202 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 16:24:18,559 INFO	 :: Websocket connected
+2024-05-01 16:24:18,559 INFO	 :: Binance websocket connection started
+2024-05-01 16:25:13,724 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714569913409, 'signature': '48a082bb6c1c833b30f829304bd8697243230cb445418e1853a035460cdb9132'} was provided.
+Message: None
+2024-05-01 16:25:13,730 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 16:25:15,072 INFO	 :: Websocket connected
+2024-05-01 16:25:15,073 INFO	 :: Binance websocket connection started
+2024-05-01 16:31:25,689 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714570285328, 'signature': '8ea4f9a8dfafeb2ee3cb13d595125fe6e3aac03d1f9f2ae33f2bd31796c70274'} was provided.
+Message: None
+2024-05-01 16:31:25,691 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 16:31:27,055 INFO	 :: Websocket connected
+2024-05-01 16:31:27,056 INFO	 :: Binance websocket connection started
+2024-05-01 16:41:48,442 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714570907579, 'signature': '6d93139729262cb832153d6866ed320612a76b017ba49cae5b5f03402e7405bb'} was provided.
+Message: None
+2024-05-01 16:41:48,449 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 16:41:49,823 INFO	 :: Websocket connected
+2024-05-01 16:41:49,823 INFO	 :: Binance websocket connection started
+2024-05-01 16:43:04,921 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714570984067, 'signature': 'e1016cddca051ce50af0068909bd4d60ed4dbba4c4caf926119f2c1414fde1be'} was provided.
+Message: None
+2024-05-01 16:43:04,923 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 16:43:06,258 INFO	 :: Websocket connected
+2024-05-01 16:43:06,259 INFO	 :: Binance websocket connection started
+2024-05-01 16:43:26,856 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714571005969, 'signature': 'a1968e48aa338e1ba6caa1cf2f3dedcaa0210fcdde42258ed5cbb76974372515'} was provided.
+Message: None
+2024-05-01 16:43:26,861 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 16:43:28,167 INFO	 :: Websocket connected
+2024-05-01 16:43:28,168 INFO	 :: Binance websocket connection started
+2024-05-01 16:45:19,098 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714571118780, 'signature': '1267948e11c1b2981cd4286b4cae0d956f7c27feb01f4fd52eae39e4aad647f4'} was provided.
+Message: None
+2024-05-01 16:45:19,104 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 16:45:20,481 INFO	 :: Websocket connected
+2024-05-01 16:45:20,482 INFO	 :: Binance websocket connection started
+2024-05-01 16:46:20,869 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714571179957, 'signature': '4045a3d55704cdb5eaec60962bf906e4ac2fd2e31ccc0a7ed3b951c9a8f2a613'} was provided.
+Message: None
+2024-05-01 16:46:20,874 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 16:46:22,220 INFO	 :: Websocket connected
+2024-05-01 16:46:22,220 INFO	 :: Binance websocket connection started
+2024-05-01 17:06:20,445 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714572379601, 'signature': 'ce5d82b6c2fbef1b0d3ea141bf9c1d603b3b2d97994fa74918976ad07bb68117'} was provided.
+Message: None
+2024-05-01 17:06:20,447 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 17:06:21,816 INFO	 :: Websocket connected
+2024-05-01 17:06:21,817 INFO	 :: Binance websocket connection started
+2024-05-01 17:07:01,894 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714572421035, 'signature': 'e12c4a27c96a6214c55114aa4016d30a9a515b0e89e906ea795b386c691aa02b'} was provided.
+Message: None
+2024-05-01 17:07:01,901 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 17:07:03,249 INFO	 :: Websocket connected
+2024-05-01 17:07:03,250 INFO	 :: Binance websocket connection started
+2024-05-01 17:17:02,426 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714573021523, 'signature': 'fa7f7517cc60308b2fa4c26d0581a8576f5c800193e934c9a7782b0ce7037128'} was provided.
+Message: None
+2024-05-01 17:17:02,432 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 17:17:04,061 INFO	 :: Websocket connected
+2024-05-01 17:17:04,063 INFO	 :: Binance websocket connection started
+2024-05-01 17:17:48,846 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714573067949, 'signature': '45fc367f83aca3cdc5f391f00d6b5381f2ed2d980e6c7eccb45925f243d2df9d'} was provided.
+Message: None
+2024-05-01 17:17:48,849 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 17:17:50,184 INFO	 :: Websocket connected
+2024-05-01 17:17:50,185 INFO	 :: Binance websocket connection started
+2024-05-01 17:18:30,560 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714573110231, 'signature': '4b368964a4273cdf4650a677fd4e20351cc4da6eda9dbaffc8176ac348e275e1'} was provided.
+Message: None
+2024-05-01 17:18:30,565 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 17:18:31,941 INFO	 :: Websocket connected
+2024-05-01 17:18:31,941 INFO	 :: Binance websocket connection started
+2024-05-01 17:31:22,003 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714573881141, 'signature': 'fa255d565dd1fb12a904e46e957302e8b49a5be887b975ea0e040559fb57d389'} was provided.
+Message: None
+2024-05-01 17:31:22,009 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 17:31:23,433 INFO	 :: Websocket connected
+2024-05-01 17:31:23,434 INFO	 :: Binance websocket connection started
+2024-05-01 17:41:43,701 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714574502843, 'signature': '6d2fc4d24ae72bed2f27d9c86834146ecbdc837b93f93164c70ce5ef876a4763'} was provided.
+Message: None
+2024-05-01 17:41:43,706 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 17:41:45,072 INFO	 :: Websocket connected
+2024-05-01 17:41:45,072 INFO	 :: Binance websocket connection started
+2024-05-01 17:41:57,678 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714574516823, 'signature': '1842e22f271c6128ff63a6514aa01369cd4d3490fad3ff9803dcfd56921c98eb'} was provided.
+Message: None
+2024-05-01 17:41:57,684 INFO	 :: Binance Futures Client successfully initialized
+2024-05-01 17:41:59,023 INFO	 :: Websocket connected
+2024-05-01 17:41:59,023 INFO	 :: Binance websocket connection started
+2024-05-02 01:14:44,044 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714601683212, 'signature': 'b3e28a283fd0f9dee57248589047e3f2595b55374946dedebd514c1f0730db3f'} was provided.
+Message: None
+2024-05-02 01:14:44,050 INFO	 :: Binance Futures Client successfully initialized
+2024-05-02 01:14:45,391 INFO	 :: Websocket connected
+2024-05-02 01:14:45,391 INFO	 :: Binance websocket connection started
+2024-05-02 01:16:22,194 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714601781337, 'signature': 'edf766f4e962ec3976c40f3153cda863d3f7b9f5de90ff8d5f6f6de3697d70a2'} was provided.
+Message: None
+2024-05-02 01:16:22,196 INFO	 :: Binance Futures Client successfully initialized
+2024-05-02 01:16:23,515 INFO	 :: Websocket connected
+2024-05-02 01:16:23,516 INFO	 :: Binance websocket connection started
+2024-05-02 01:23:29,017 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714602208171, 'signature': 'ee2394153ab83f626cba09b908bc171ca6639e765e4e0c37e31102c9657583f9'} was provided.
+Message: None
+2024-05-02 01:23:29,023 INFO	 :: Binance Futures Client successfully initialized
+2024-05-02 01:23:30,426 INFO	 :: Websocket connected
+2024-05-02 01:23:30,426 INFO	 :: Binance websocket connection started
+2024-05-02 01:25:51,443 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714602350608, 'signature': '09b9739a484b04e80486fe347ecdfb241835edee5125086c74ad19b7ae18becc'} was provided.
+Message: None
+2024-05-02 01:25:51,449 INFO	 :: Binance Futures Client successfully initialized
+2024-05-02 01:25:52,772 INFO	 :: Websocket connected
+2024-05-02 01:25:52,773 INFO	 :: Binance websocket connection started
+2024-05-02 01:34:28,011 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714602867691, 'signature': 'df4c531e544eb8157bf52eae370da789794ac98a53ff4381b5d0d9b1e8f5fc82'} was provided.
+Message: None
+2024-05-02 01:34:28,014 INFO	 :: Binance Futures Client successfully initialized
+2024-05-02 01:34:29,336 INFO	 :: Websocket connected
+2024-05-02 01:34:29,336 INFO	 :: Binance websocket connection started
+2024-05-02 01:38:29,425 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714603108588, 'signature': 'cd8f190ee4ffc032ead24bf8984129df5457fbf235461cff88c63b5bd21a6f7b'} was provided.
+Message: None
+2024-05-02 01:38:29,430 INFO	 :: Binance Futures Client successfully initialized
+2024-05-02 01:38:30,806 INFO	 :: Websocket connected
+2024-05-02 01:38:30,806 INFO	 :: Binance websocket connection started
+2024-05-02 01:44:17,885 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714603457019, 'signature': '55cfd0778a02da63382a44be5d5cdfa5a344132ddac7a5e89668f5c0f7103949'} was provided.
+Message: None
+2024-05-02 01:44:17,891 INFO	 :: Binance Futures Client successfully initialized
+2024-05-02 01:44:20,915 INFO	 :: Websocket connected
+2024-05-02 01:44:20,915 INFO	 :: Binance websocket connection started
+2024-05-02 01:44:45,749 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714603484869, 'signature': 'b4b6c76b641a23a20aeb0243787bbde1f44edb7a4388bc47f18da4a51620e8d9'} was provided.
+Message: None
+2024-05-02 01:44:45,755 INFO	 :: Binance Futures Client successfully initialized
+2024-05-02 01:44:47,032 INFO	 :: Websocket connected
+2024-05-02 01:44:47,033 INFO	 :: Binance websocket connection started
+2024-05-03 09:47:00,137 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714718819232, 'signature': '952a27799f15172ecb863980d6274cedc8a174ede5f75d9fc2fcdd34bd5b0d67'} was provided.
+Message: None
+2024-05-03 09:47:00,139 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 09:47:01,693 INFO	 :: Websocket connected
+2024-05-03 09:47:01,694 INFO	 :: Binance websocket connection started
+2024-05-03 09:59:35,970 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714719575121, 'signature': 'f332e49701a99f74bb9a6354bfe16db1239884ecf3d179f4c3509f9b2716da12'} was provided.
+Message: None
+2024-05-03 09:59:35,972 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 09:59:37,269 INFO	 :: Websocket connected
+2024-05-03 09:59:37,269 INFO	 :: Binance websocket connection started
+2024-05-03 15:20:27,863 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714738826928, 'signature': '7e5f37b234f2a25c2caa56c24a360d5cb690605781f06c275a8bc4cca47b9206'} was provided.
+Message: None
+2024-05-03 15:20:27,865 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 15:20:29,327 INFO	 :: Websocket connected
+2024-05-03 15:20:29,327 INFO	 :: Binance websocket connection started
+2024-05-03 17:43:49,796 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714747429442, 'signature': '13a88d125c94e6ff01618c32edb8a277719906420964486065721248f8e317f8'} was provided.
+Message: None
+2024-05-03 17:43:49,798 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 17:43:51,119 INFO	 :: Websocket connected
+2024-05-03 17:43:51,119 INFO	 :: Binance websocket connection started
+2024-05-03 17:45:26,056 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714747525159, 'signature': '2fad120520b5b01bccf4cf48f362fca889db9adc4262fc7c916abca126dfcc89'} was provided.
+Message: None
+2024-05-03 17:45:26,058 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 17:45:27,410 INFO	 :: Websocket connected
+2024-05-03 17:45:27,410 INFO	 :: Binance websocket connection started
+2024-05-03 17:49:20,765 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714747759799, 'signature': '7c3d04010af3ead4bd242af6662e81d4b3dc9b44ecc73b960b85eb71bd9d22bb'} was provided.
+Message: None
+2024-05-03 17:49:20,768 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 17:49:22,102 INFO	 :: Websocket connected
+2024-05-03 17:49:22,103 INFO	 :: Binance websocket connection started
+2024-05-03 17:50:59,640 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714747858681, 'signature': '3621f164b3eace241d6bff54bff9fd187286c7feae81f6924c1907e2434b7aa2'} was provided.
+Message: None
+2024-05-03 17:50:59,642 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 17:51:00,924 INFO	 :: Websocket connected
+2024-05-03 17:51:00,925 INFO	 :: Binance websocket connection started
+2024-05-03 17:58:39,206 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714748318315, 'signature': 'a98c0257851e3d2d708fa59384df17ba64a85c199e5ffaeb0049e0aacfb258d9'} was provided.
+Message: None
+2024-05-03 17:58:39,207 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 17:58:40,584 INFO	 :: Websocket connected
+2024-05-03 17:58:40,585 INFO	 :: Binance websocket connection started
+2024-05-03 18:08:19,586 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714748898696, 'signature': '4f151151b14856aa1bd8844fccba0a999bb8750f31f8b7d65ab815f5343ef87a'} was provided.
+Message: None
+2024-05-03 18:08:19,588 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 18:08:20,897 INFO	 :: Websocket connected
+2024-05-03 18:08:20,897 INFO	 :: Binance websocket connection started
+2024-05-03 18:12:45,146 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714749164251, 'signature': '1f384bd558ef87fea766d21e42633ffd37e36be3bc82fee79d69aa7fa9dddcb8'} was provided.
+Message: None
+2024-05-03 18:12:45,148 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 18:12:46,517 INFO	 :: Websocket connected
+2024-05-03 18:12:46,517 INFO	 :: Binance websocket connection started
+2024-05-03 18:13:24,588 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714749204210, 'signature': '297075e90a6774a209b16398e84576d5223dd40938ca59f612da3b8568aaff5d'} was provided.
+Message: None
+2024-05-03 18:13:24,594 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 18:13:25,934 INFO	 :: Websocket connected
+2024-05-03 18:13:25,934 INFO	 :: Binance websocket connection started
+2024-05-03 18:15:07,573 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714749306635, 'signature': '6e38c430495e810c04780aefff4368a1497769e84209b1046731bee53e16f0f0'} was provided.
+Message: None
+2024-05-03 18:15:07,575 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 18:15:08,855 INFO	 :: Websocket connected
+2024-05-03 18:15:08,856 INFO	 :: Binance websocket connection started
+2024-05-03 18:17:13,264 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714749432370, 'signature': 'db7c9848b9fe9e303fa9898bbd879541d4edabcc913f04a3674a665a391c509e'} was provided.
+Message: None
+2024-05-03 18:17:13,269 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 18:17:14,667 INFO	 :: Websocket connected
+2024-05-03 18:17:14,668 INFO	 :: Binance websocket connection started
+2024-05-03 18:18:32,505 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714749511571, 'signature': '4a61db1cc3652f03f945fb8d34c401fc49e17e338a78ed8140f37340970be7c5'} was provided.
+Message: None
+2024-05-03 18:18:32,506 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 18:18:33,880 INFO	 :: Websocket connected
+2024-05-03 18:18:33,881 INFO	 :: Binance websocket connection started
+2024-05-03 18:32:16,824 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714750335950, 'signature': '22f09fd5e995c2157817733601493d747602311859b661eb1e4dcc23cdf3dfa7'} was provided.
+Message: None
+2024-05-03 18:32:16,826 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 18:32:18,178 INFO	 :: Websocket connected
+2024-05-03 18:32:18,179 INFO	 :: Binance websocket connection started
+2024-05-03 18:34:00,969 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714750440113, 'signature': 'cfc771db7237b845114f48831b8d961142458c444e02e020660db4d212a8bb15'} was provided.
+Message: None
+2024-05-03 18:34:00,973 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 18:34:02,373 INFO	 :: Websocket connected
+2024-05-03 18:34:02,373 INFO	 :: Binance websocket connection started
+2024-05-03 18:35:09,242 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714750508387, 'signature': '5fff25b3f16728af95b40137f3599370e5973851445d0722c86af8f9bb35ba64'} was provided.
+Message: None
+2024-05-03 18:35:09,247 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 18:35:10,571 INFO	 :: Websocket connected
+2024-05-03 18:35:10,572 INFO	 :: Binance websocket connection started
+2024-05-03 18:39:40,335 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714750779466, 'signature': 'a5790db1a78bfba5f3ea3017127c5650672a64309b7ee3a16754b547f4a6952d'} was provided.
+Message: None
+2024-05-03 18:39:40,337 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 18:39:41,688 INFO	 :: Websocket connected
+2024-05-03 18:39:41,688 INFO	 :: Binance websocket connection started
+2024-05-03 19:01:28,322 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714752087473, 'signature': 'd2ba52db7ad7dbef5cd7b1fb254992bb250d74234669d9363bc199082bb52ab7'} was provided.
+Message: None
+2024-05-03 19:01:28,324 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 19:01:29,609 INFO	 :: Websocket connected
+2024-05-03 19:01:29,609 INFO	 :: Binance websocket connection started
+2024-05-03 19:03:13,038 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714752192169, 'signature': 'fc130b563d61b297355b533f5896d6a4048b3d6cfed3d3d9d83c3cfed5163ba3'} was provided.
+Message: None
+2024-05-03 19:03:13,043 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 19:03:14,418 INFO	 :: Websocket connected
+2024-05-03 19:03:14,419 INFO	 :: Binance websocket connection started
+2024-05-03 19:04:21,650 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714752260786, 'signature': 'ad50e6b2a11e265feb55fb59640e0ad5f931209d4e3bc8ea310669ca367bea12'} was provided.
+Message: None
+2024-05-03 19:04:21,652 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 19:04:23,002 INFO	 :: Websocket connected
+2024-05-03 19:04:23,002 INFO	 :: Binance websocket connection started
+2024-05-03 19:05:39,084 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714752338229, 'signature': '42788852336203b119717a404b9233884e41dcd797d7a1ffef5ff5eeeba63b2d'} was provided.
+Message: None
+2024-05-03 19:05:39,085 INFO	 :: Binance Futures Client successfully initialized
+2024-05-03 19:05:40,427 INFO	 :: Websocket connected
+2024-05-03 19:05:40,428 INFO	 :: Binance websocket connection started
+2024-05-05 14:44:19,602 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714909458662, 'signature': 'c4904953d0dc92d68fa167f7b98ffbf6e2a0d3b283700404097bbada44221644'} was provided.
+Message: None
+2024-05-05 14:44:19,608 INFO	 :: Binance Futures Client successfully initialized
+2024-05-05 14:44:21,133 INFO	 :: Websocket connected
+2024-05-05 14:44:21,133 INFO	 :: Binance websocket connection started
+2024-05-05 14:44:53,369 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714909492519, 'signature': 'ef57cff3070054e412d5620cd9da68926dd8a068effa950c9553d62b14ec2a35'} was provided.
+Message: None
+2024-05-05 14:44:53,375 INFO	 :: Binance Futures Client successfully initialized
+2024-05-05 14:44:54,694 INFO	 :: Websocket connected
+2024-05-05 14:44:54,694 INFO	 :: Binance websocket connection started
+2024-05-05 14:46:02,122 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714909561241, 'signature': '83e8b7a9913a0988c5ce811d688483468d461e48613f57e8d2b2468793ce48b3'} was provided.
+Message: None
+2024-05-05 14:46:02,129 INFO	 :: Binance Futures Client successfully initialized
+2024-05-05 14:46:03,491 INFO	 :: Websocket connected
+2024-05-05 14:46:03,491 INFO	 :: Binance websocket connection started
+2024-05-05 15:12:36,718 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714911155825, 'signature': '42b59d026f5a38588ef7b13d429a435eab68a65de4794fd222fffb777c6d1b66'} was provided.
+Message: None
+2024-05-05 15:12:36,719 INFO	 :: Binance Futures Client successfully initialized
+2024-05-05 15:12:38,073 INFO	 :: Websocket connected
+2024-05-05 15:12:38,074 INFO	 :: Binance websocket connection started
+2024-05-05 15:13:30,434 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714911209580, 'signature': '36feb662866e6551711caa2c859a4e6248f55963bbdd53242a9f87f798618a7a'} was provided.
+Message: None
+2024-05-05 15:13:30,439 INFO	 :: Binance Futures Client successfully initialized
+2024-05-05 15:13:31,707 INFO	 :: Websocket connected
+2024-05-05 15:13:31,708 INFO	 :: Binance websocket connection started
+2024-05-05 15:33:09,662 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714912388764, 'signature': 'e1f270b5dc75ac80500376fc97c3c4f6c46d5e19cfe4382b5c1ae228ca7d411a'} was provided.
+Message: None
+2024-05-05 15:33:09,664 INFO	 :: Binance Futures Client successfully initialized
+2024-05-05 15:33:11,160 INFO	 :: Websocket connected
+2024-05-05 15:33:11,161 INFO	 :: Binance websocket connection started
+2024-05-05 15:35:20,808 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714912519960, 'signature': 'a3d1e2cc12393585a5fab90d27c39010c8116ea4649afa6a67dea113b88a2a84'} was provided.
+Message: None
+2024-05-05 15:35:20,810 INFO	 :: Binance Futures Client successfully initialized
+2024-05-05 15:35:22,206 INFO	 :: Websocket connected
+2024-05-05 15:35:22,206 INFO	 :: Binance websocket connection started
+2024-05-06 00:02:05,716 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714942924835, 'signature': 'c5d207ed31c1155f8c55ae46251a379952222504fd73a16037c03d3774b8e090'} was provided.
+Message: None
+2024-05-06 00:02:05,718 INFO	 :: Binance Futures Client successfully initialized
+2024-05-06 00:02:07,055 INFO	 :: Websocket connected
+2024-05-06 00:02:07,056 INFO	 :: Binance websocket connection started
+2024-05-06 00:03:21,078 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714943000180, 'signature': '95d6493f4264c26ffad33cc4ca763595f08e22e1d946e5b058e54bffc1f88bc1'} was provided.
+Message: None
+2024-05-06 00:03:21,080 INFO	 :: Binance Futures Client successfully initialized
+2024-05-06 00:03:22,463 INFO	 :: Websocket connected
+2024-05-06 00:03:22,463 INFO	 :: Binance websocket connection started
+2024-05-06 00:04:41,110 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714943080203, 'signature': '712307505ac738deda5689b9445f04a494094e2b97d61db54771fdc33d9409bc'} was provided.
+Message: None
+2024-05-06 00:04:41,112 INFO	 :: Binance Futures Client successfully initialized
+2024-05-06 00:04:42,469 INFO	 :: Websocket connected
+2024-05-06 00:04:42,469 INFO	 :: Binance websocket connection started
+2024-05-06 00:05:23,891 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714943123018, 'signature': 'eac9183bcb55ffb37c8eedb6ba9da212774ee628633d84303c0c1c662ffe9fb9'} was provided.
+Message: None
+2024-05-06 00:05:23,893 INFO	 :: Binance Futures Client successfully initialized
+2024-05-06 00:05:25,129 INFO	 :: Websocket connected
+2024-05-06 00:05:25,129 INFO	 :: Binance websocket connection started
+2024-05-06 00:08:04,644 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714943283726, 'signature': '205704269b810791114e7e7c5b832a388bfe36d5e47cbe22627211c038814f7e'} was provided.
+Message: None
+2024-05-06 00:08:04,646 INFO	 :: Binance Futures Client successfully initialized
+2024-05-06 00:08:06,022 INFO	 :: Websocket connected
+2024-05-06 00:08:06,022 INFO	 :: Binance websocket connection started
+2024-05-06 00:12:18,509 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714943537633, 'signature': '55fc1c22bbec7a11c6588e55c1cc492a7693332adf23da219c949f00783dd5cb'} was provided.
+Message: None
+2024-05-06 00:12:18,515 INFO	 :: Binance Futures Client successfully initialized
+2024-05-06 00:12:19,799 INFO	 :: Websocket connected
+2024-05-06 00:12:19,800 INFO	 :: Binance websocket connection started
+2024-05-06 00:18:49,342 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714943928473, 'signature': '419897c2ee1f94d3a0fdc4b2f418411cba4d1fd0ad90b52b01773d5737b4e061'} was provided.
+Message: None
+2024-05-06 00:18:49,344 INFO	 :: Binance Futures Client successfully initialized
+2024-05-06 00:18:50,663 INFO	 :: Websocket connected
+2024-05-06 00:18:50,664 INFO	 :: Binance websocket connection started
+2024-05-06 00:25:30,708 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714944330342, 'signature': '5ec9b96cc30dcbb0b8f829d37b18a4d2cedf854a23a817a8a9b3eb32f4201537'} was provided.
+Message: None
+2024-05-06 00:25:30,713 INFO	 :: Binance Futures Client successfully initialized
+2024-05-06 00:25:32,036 INFO	 :: Websocket connected
+2024-05-06 00:25:32,037 INFO	 :: Binance websocket connection started
+2024-05-06 00:25:48,482 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: 'BreakoutStrategy' object has no attribute '_open_position'
+2024-05-06 00:25:48,483 ERROR	 :: Binance websocket connection error 'BreakoutStrategy' object has no attribute '_open_position'
+2024-05-06 00:26:11,351 INFO	 :: Binance missing 0 candles for BTCUSDT 1m (1714944372411 1714944300000)
+2024-05-06 00:26:11,352 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:26:11,353 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:26:15,978 INFO	 :: Binance missing 0 candles for BTCUSDT 1m (1714944377040 1714944300000)
+2024-05-06 00:26:15,978 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:26:15,979 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:26:30,630 INFO	 :: Binance missing 0 candles for BTCUSDT 1m (1714944391841 1714944300000)
+2024-05-06 00:26:30,631 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:26:30,633 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:26:30,780 INFO	 :: Binance missing 0 candles for BTCUSDT 1m (1714944391841 1714944300000)
+2024-05-06 00:26:30,781 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:26:30,783 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:26:34,028 INFO	 :: Binance missing 0 candles for BTCUSDT 1m (1714944395087 1714944300000)
+2024-05-06 00:26:34,028 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:26:34,028 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:26:58,491 INFO	 :: Binance missing 0 candles for BTCUSDT 1m (1714944419551 1714944300000)
+2024-05-06 00:26:58,492 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:26:58,494 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:27:10,987 INFO	 :: Binance missing 1 candles for BTCUSDT 1m (1714944432050 1714944300000)
+2024-05-06 00:27:10,989 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:10,990 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:14,160 INFO	 :: Binance missing 1 candles for BTCUSDT 1m (1714944435371 1714944300000)
+2024-05-06 00:27:14,161 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:14,161 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:14,311 INFO	 :: Binance missing 1 candles for BTCUSDT 1m (1714944435371 1714944300000)
+2024-05-06 00:27:14,311 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:14,312 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:14,489 INFO	 :: Binance missing 1 candles for BTCUSDT 1m (1714944435617 1714944300000)
+2024-05-06 00:27:14,490 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:14,491 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:14,491 INFO	 :: Binance missing 1 candles for BTCUSDT 1m (1714944435700 1714944300000)
+2024-05-06 00:27:14,492 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:14,492 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:14,640 INFO	 :: Binance missing 1 candles for BTCUSDT 1m (1714944435700 1714944300000)
+2024-05-06 00:27:14,640 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:14,641 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:22,805 INFO	 :: Binance missing 1 candles for BTCUSDT 1m (1714944443866 1714944300000)
+2024-05-06 00:27:22,806 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:22,807 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:27,176 INFO	 :: Binance missing 1 candles for BTCUSDT 1m (1714944448387 1714944300000)
+2024-05-06 00:27:27,177 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:27,178 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:27,327 INFO	 :: Binance missing 1 candles for BTCUSDT 1m (1714944448387 1714944300000)
+2024-05-06 00:27:27,327 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:27,328 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:29,491 INFO	 :: Binance missing 1 candles for BTCUSDT 1m (1714944450541 1714944300000)
+2024-05-06 00:27:29,492 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:29,492 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:32,806 INFO	 :: Binance missing 1 candles for BTCUSDT 1m (1714944453870 1714944300000)
+2024-05-06 00:27:32,807 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:32,808 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:36,690 INFO	 :: Binance missing 1 candles for BTCUSDT 1m (1714944457751 1714944300000)
+2024-05-06 00:27:36,691 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:27:36,692 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:28:15,549 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714944496612 1714944300000)
+2024-05-06 00:28:15,550 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:28:15,552 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:28:18,578 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714944499641 1714944300000)
+2024-05-06 00:28:18,579 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:28:18,579 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:28:21,388 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714944502450 1714944300000)
+2024-05-06 00:28:21,388 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:28:21,388 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:28:40,877 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714944522088 1714944300000)
+2024-05-06 00:28:40,878 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:28:40,879 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:28:41,028 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714944522088 1714944300000)
+2024-05-06 00:28:41,029 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:28:41,031 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:28:45,113 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714944526327 1714944300000)
+2024-05-06 00:28:45,113 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:28:45,114 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:28:45,265 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714944526327 1714944300000)
+2024-05-06 00:28:45,265 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:28:45,265 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:29:08,062 INFO	 :: Binance missing 3 candles for BTCUSDT 1m (1714944549120 1714944300000)
+2024-05-06 00:29:08,062 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:29:08,063 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:29:44,711 INFO	 :: Binance missing 3 candles for BTCUSDT 1m (1714944585773 1714944300000)
+2024-05-06 00:29:44,712 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:29:44,714 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:29:51,401 INFO	 :: Binance missing 3 candles for BTCUSDT 1m (1714944592465 1714944300000)
+2024-05-06 00:29:51,401 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:29:51,401 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:30:20,188 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714944621402 1714944300000)
+2024-05-06 00:30:20,188 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:30:20,189 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:30:20,338 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714944621402 1714944300000)
+2024-05-06 00:30:20,338 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:30:20,338 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:30:20,631 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714944621696 1714944300000)
+2024-05-06 00:30:20,631 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:30:20,632 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:30:32,486 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714944633550 1714944300000)
+2024-05-06 00:30:32,486 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:30:32,486 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:30:36,074 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714944637139 1714944300000)
+2024-05-06 00:30:36,075 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:30:36,075 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:30:41,076 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714944642139 1714944300000)
+2024-05-06 00:30:41,076 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:30:41,077 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:30:41,743 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714944642956 1714944300000)
+2024-05-06 00:30:41,744 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:30:41,746 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:30:41,893 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714944642956 1714944300000)
+2024-05-06 00:30:41,894 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:30:41,896 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:31:15,816 INFO	 :: Binance missing 5 candles for BTCUSDT 1m (1714944677030 1714944300000)
+2024-05-06 00:31:15,816 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:31:15,816 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:31:15,967 INFO	 :: Binance missing 5 candles for BTCUSDT 1m (1714944677030 1714944300000)
+2024-05-06 00:31:15,968 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001CB8D571520>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:31:15,969 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:31:47,356 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714944706494, 'signature': 'f2b50468d4cbeb9cea6177cfc9a53391b912c3f04d87732c63839bdd89728a66'} was provided.
+Message: None
+2024-05-06 00:31:47,357 INFO	 :: Binance Futures Client successfully initialized
+2024-05-06 00:31:48,639 INFO	 :: Websocket connected
+2024-05-06 00:31:48,639 INFO	 :: Binance websocket connection started
+2024-05-06 00:32:11,820 INFO	 :: Binance missing 0 candles for BTCUSDT 1m (1714944732890 1714944660000)
+2024-05-06 00:32:11,820 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001A23D6C8AC0>>: local variable 'candle_info' referenced before assignment
+2024-05-06 00:32:11,821 ERROR	 :: Binance websocket connection error local variable 'candle_info' referenced before assignment
+2024-05-06 00:32:15,062 INFO	 :: Binance missing 0 candles for BTCUSDT 1m (1714944736135 1714944660000)
+2024-05-06 00:32:15,063 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001A23D6C8AC0>>: local variable 'candle_info' referenced before assignment
+2024-05-06 00:32:15,063 ERROR	 :: Binance websocket connection error local variable 'candle_info' referenced before assignment
+2024-05-06 00:32:16,106 INFO	 :: Binance missing 0 candles for BTCUSDT 1m (1714944737178 1714944660000)
+2024-05-06 00:32:16,107 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001A23D6C8AC0>>: local variable 'candle_info' referenced before assignment
+2024-05-06 00:32:16,108 ERROR	 :: Binance websocket connection error local variable 'candle_info' referenced before assignment
+2024-05-06 00:32:23,274 INFO	 :: Binance missing 0 candles for BTCUSDT 1m (1714944744344 1714944660000)
+2024-05-06 00:32:23,276 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001A23D6C8AC0>>: local variable 'candle_info' referenced before assignment
+2024-05-06 00:32:23,277 ERROR	 :: Binance websocket connection error local variable 'candle_info' referenced before assignment
+2024-05-06 00:32:47,738 INFO	 :: Binance missing 0 candles for BTCUSDT 1m (1714944768957 1714944660000)
+2024-05-06 00:32:47,739 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001A23D6C8AC0>>: local variable 'candle_info' referenced before assignment
+2024-05-06 00:32:47,741 ERROR	 :: Binance websocket connection error local variable 'candle_info' referenced before assignment
+2024-05-06 00:32:47,886 INFO	 :: Binance missing 0 candles for BTCUSDT 1m (1714944768957 1714944660000)
+2024-05-06 00:32:47,887 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001A23D6C8AC0>>: local variable 'candle_info' referenced before assignment
+2024-05-06 00:32:47,889 ERROR	 :: Binance websocket connection error local variable 'candle_info' referenced before assignment
+2024-05-06 00:33:05,443 INFO	 :: Binance missing 1 candles for BTCUSDT 1m (1714944786511 1714944660000)
+2024-05-06 00:33:05,444 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000001A23D6C8AC0>>: local variable 'candle_info' referenced before assignment
+2024-05-06 00:33:05,446 ERROR	 :: Binance websocket connection error local variable 'candle_info' referenced before assignment
+2024-05-06 00:33:22,142 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714944801277, 'signature': 'c8abdfdb6a15812f867efa941f44a830a3a1571b8b94b984561e9f88de7fdbdd'} was provided.
+Message: None
+2024-05-06 00:33:22,143 INFO	 :: Binance Futures Client successfully initialized
+2024-05-06 00:33:23,475 INFO	 :: Websocket connected
+2024-05-06 00:33:23,476 INFO	 :: Binance websocket connection started
+2024-05-06 00:34:13,524 INFO	 :: Binance missing 0 candles for BTCUSDT 1m (1714944854587 1714944780000)
+2024-05-06 00:34:13,525 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000002040B036970>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:34:13,527 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:34:18,077 INFO	 :: Binance missing 0 candles for BTCUSDT 1m (1714944859141 1714944780000)
+2024-05-06 00:34:18,077 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x000002040B036970>>: local variable 'new_candle' referenced before assignment
+2024-05-06 00:34:18,077 ERROR	 :: Binance websocket connection error local variable 'new_candle' referenced before assignment
+2024-05-06 00:35:04,036 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714944903168, 'signature': '0a91111e09bf4bda79023d5d3f4655a11022ce4a393ab2ed91263371f3a21d29'} was provided.
+Message: None
+2024-05-06 00:35:04,042 INFO	 :: Binance Futures Client successfully initialized
+2024-05-06 00:35:05,338 INFO	 :: Websocket connected
+2024-05-06 00:35:05,338 INFO	 :: Binance websocket connection started
+2024-05-06 00:36:12,461 INFO	 :: Binance missing 0 candles for BTCUSDT 1m (1714944973525 1714944900000)
+2024-05-06 00:36:12,462 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:36:12,463 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:36:18,272 INFO	 :: Binance missing 0 candles for BTCUSDT 1m (1714944979335 1714944900000)
+2024-05-06 00:36:18,272 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:36:18,273 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:36:19,217 INFO	 :: Binance missing 0 candles for BTCUSDT 1m (1714944980280 1714944900000)
+2024-05-06 00:36:19,218 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:36:19,219 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:37:10,206 INFO	 :: Binance missing 1 candles for BTCUSDT 1m (1714945031270 1714944900000)
+2024-05-06 00:37:10,207 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:37:10,208 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:37:26,972 INFO	 :: Binance missing 1 candles for BTCUSDT 1m (1714945048038 1714944900000)
+2024-05-06 00:37:26,973 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:37:26,973 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:37:35,204 INFO	 :: Binance missing 1 candles for BTCUSDT 1m (1714945056269 1714944900000)
+2024-05-06 00:37:35,205 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:37:35,205 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:37:47,608 INFO	 :: Binance missing 1 candles for BTCUSDT 1m (1714945068670 1714944900000)
+2024-05-06 00:37:47,608 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:37:47,609 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:38:01,114 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714945082175 1714944900000)
+2024-05-06 00:38:01,115 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:38:01,115 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:38:07,769 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714945088835 1714944900000)
+2024-05-06 00:38:07,769 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:38:07,770 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:38:12,030 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714945093093 1714944900000)
+2024-05-06 00:38:12,030 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:38:12,030 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:38:13,168 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714945094384 1714944900000)
+2024-05-06 00:38:13,168 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:38:13,169 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:38:13,169 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714945094384 1714944900000)
+2024-05-06 00:38:13,169 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:38:13,169 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:38:13,317 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714945094384 1714944900000)
+2024-05-06 00:38:13,318 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:38:13,318 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:38:36,680 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714945117746 1714944900000)
+2024-05-06 00:38:36,680 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:38:36,680 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:38:51,516 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714945132582 1714944900000)
+2024-05-06 00:38:51,516 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:38:51,516 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:39:11,626 INFO	 :: Binance missing 3 candles for BTCUSDT 1m (1714945152840 1714944900000)
+2024-05-06 00:39:11,626 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:39:11,627 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:39:11,779 INFO	 :: Binance missing 3 candles for BTCUSDT 1m (1714945152840 1714944900000)
+2024-05-06 00:39:11,779 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:39:11,779 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:39:33,594 INFO	 :: Binance missing 3 candles for BTCUSDT 1m (1714945174661 1714944900000)
+2024-05-06 00:39:33,595 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:39:33,597 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:39:34,541 INFO	 :: Binance missing 3 candles for BTCUSDT 1m (1714945175607 1714944900000)
+2024-05-06 00:39:34,542 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:39:34,543 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:39:51,392 INFO	 :: Binance missing 3 candles for BTCUSDT 1m (1714945192459 1714944900000)
+2024-05-06 00:39:51,392 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:39:51,393 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:40:13,142 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714945214210 1714944900000)
+2024-05-06 00:40:13,143 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:40:13,143 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:40:15,431 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714945216498 1714944900000)
+2024-05-06 00:40:15,431 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:40:15,431 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:40:19,058 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714945220125 1714944900000)
+2024-05-06 00:40:19,059 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:40:19,060 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:40:21,062 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714945222130 1714944900000)
+2024-05-06 00:40:21,062 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:40:21,062 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:40:30,461 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714945231526 1714944900000)
+2024-05-06 00:40:30,462 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:40:30,462 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:40:39,790 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714945240858 1714944900000)
+2024-05-06 00:40:39,792 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:40:39,793 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:40:42,239 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714945243455 1714944900000)
+2024-05-06 00:40:42,240 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:40:42,241 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:40:42,389 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714945243455 1714944900000)
+2024-05-06 00:40:42,391 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:40:42,392 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:41:07,555 INFO	 :: Binance missing 5 candles for BTCUSDT 1m (1714945268623 1714944900000)
+2024-05-06 00:41:07,555 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:41:07,555 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:41:13,246 INFO	 :: Binance missing 5 candles for BTCUSDT 1m (1714945274314 1714944900000)
+2024-05-06 00:41:13,246 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:41:13,246 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:41:18,856 INFO	 :: Binance missing 5 candles for BTCUSDT 1m (1714945279924 1714944900000)
+2024-05-06 00:41:18,857 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:41:18,857 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:41:54,576 INFO	 :: Binance missing 5 candles for BTCUSDT 1m (1714945315790 1714944900000)
+2024-05-06 00:41:54,577 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:41:54,579 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:41:54,725 INFO	 :: Binance missing 5 candles for BTCUSDT 1m (1714945315790 1714944900000)
+2024-05-06 00:41:54,727 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:41:54,728 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:42:29,876 INFO	 :: Binance missing 6 candles for BTCUSDT 1m (1714945350945 1714944900000)
+2024-05-06 00:42:29,877 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:42:29,879 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:43:19,319 INFO	 :: Binance missing 7 candles for BTCUSDT 1m (1714945400388 1714944900000)
+2024-05-06 00:43:19,321 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:43:19,322 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:43:56,548 INFO	 :: Binance missing 7 candles for BTCUSDT 1m (1714945437618 1714944900000)
+2024-05-06 00:43:56,548 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:43:56,548 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:44:00,842 INFO	 :: Binance missing 8 candles for BTCUSDT 1m (1714945441911 1714944900000)
+2024-05-06 00:44:00,842 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:44:00,842 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:44:10,066 INFO	 :: Binance missing 8 candles for BTCUSDT 1m (1714945451134 1714944900000)
+2024-05-06 00:44:10,067 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:44:10,069 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:44:29,885 INFO	 :: Binance missing 8 candles for BTCUSDT 1m (1714945470956 1714944900000)
+2024-05-06 00:44:29,887 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:44:29,888 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:44:58,439 INFO	 :: Binance missing 8 candles for BTCUSDT 1m (1714945499509 1714944900000)
+2024-05-06 00:44:58,440 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:44:58,442 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:45:17,960 INFO	 :: Binance missing 9 candles for BTCUSDT 1m (1714945519029 1714944900000)
+2024-05-06 00:45:17,961 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:45:17,962 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:45:21,850 INFO	 :: Binance missing 9 candles for BTCUSDT 1m (1714945522920 1714944900000)
+2024-05-06 00:45:21,852 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:45:21,853 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:45:38,762 INFO	 :: Binance missing 9 candles for BTCUSDT 1m (1714945539833 1714944900000)
+2024-05-06 00:45:38,762 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:45:38,762 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:45:42,578 INFO	 :: Binance missing 9 candles for BTCUSDT 1m (1714945543648 1714944900000)
+2024-05-06 00:45:42,579 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:45:42,580 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:45:56,898 INFO	 :: Binance missing 9 candles for BTCUSDT 1m (1714945557969 1714944900000)
+2024-05-06 00:45:56,899 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:45:56,901 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:46:02,266 INFO	 :: Binance missing 10 candles for BTCUSDT 1m (1714945563489 1714944900000)
+2024-05-06 00:46:02,267 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:46:02,267 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:46:02,268 INFO	 :: Binance missing 10 candles for BTCUSDT 1m (1714945563489 1714944900000)
+2024-05-06 00:46:02,268 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:46:02,269 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:46:02,420 INFO	 :: Binance missing 10 candles for BTCUSDT 1m (1714945563489 1714944900000)
+2024-05-06 00:46:02,421 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x00000237D8A14A60>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:46:02,423 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:47:08,867 ERROR	 :: StatusError: Error while executing GET request to https://testnet.binancefuture.com/fapi/v1/account.
+{'timestamp': 1714945627971, 'signature': '98185069693807b799cbfcc006e2ef2966e0aa549ba0649bef70d338adf71d20'} was provided.
+Message: None
+2024-05-06 00:47:08,868 INFO	 :: Binance Futures Client successfully initialized
+2024-05-06 00:47:10,175 INFO	 :: Websocket connected
+2024-05-06 00:47:10,176 INFO	 :: Binance websocket connection started
+2024-05-06 00:48:51,689 INFO	 :: Binance missing 0 candles for BTCUSDT 1m (1714945732762 1714945620000)
+2024-05-06 00:48:51,690 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:48:51,692 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:49:27,985 INFO	 :: Binance missing 1 candles for BTCUSDT 1m (1714945769211 1714945620000)
+2024-05-06 00:49:27,985 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:49:27,986 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:49:28,135 INFO	 :: Binance missing 1 candles for BTCUSDT 1m (1714945769211 1714945620000)
+2024-05-06 00:49:28,135 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:49:28,136 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:01,247 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714945802326 1714945620000)
+2024-05-06 00:50:01,248 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:01,248 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:03,769 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714945804846 1714945620000)
+2024-05-06 00:50:03,769 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:03,769 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:09,930 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714945811158 1714945620000)
+2024-05-06 00:50:09,931 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:09,931 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:10,080 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714945811158 1714945620000)
+2024-05-06 00:50:10,080 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:10,081 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:10,556 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714945811634 1714945620000)
+2024-05-06 00:50:10,557 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:10,557 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:39,010 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714945840233 1714945620000)
+2024-05-06 00:50:39,011 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:39,012 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:39,159 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714945840233 1714945620000)
+2024-05-06 00:50:39,160 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:39,160 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:44,775 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714945846001 1714945620000)
+2024-05-06 00:50:44,776 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:44,777 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:44,924 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714945846001 1714945620000)
+2024-05-06 00:50:44,925 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:44,926 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:47,816 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714945849043 1714945620000)
+2024-05-06 00:50:47,816 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:47,817 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:47,966 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714945849043 1714945620000)
+2024-05-06 00:50:47,966 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:47,966 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:53,829 INFO	 :: Binance missing 2 candles for BTCUSDT 1m (1714945854907 1714945620000)
+2024-05-06 00:50:53,829 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:50:53,830 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:51:21,437 INFO	 :: Binance missing 3 candles for BTCUSDT 1m (1714945882662 1714945620000)
+2024-05-06 00:51:21,438 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:51:21,439 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:51:21,588 INFO	 :: Binance missing 3 candles for BTCUSDT 1m (1714945882662 1714945620000)
+2024-05-06 00:51:21,589 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:51:21,591 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:51:33,998 INFO	 :: Binance missing 3 candles for BTCUSDT 1m (1714945895224 1714945620000)
+2024-05-06 00:51:33,998 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:51:33,998 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:51:34,148 INFO	 :: Binance missing 3 candles for BTCUSDT 1m (1714945895224 1714945620000)
+2024-05-06 00:51:34,150 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:51:34,151 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:51:37,079 INFO	 :: Binance missing 3 candles for BTCUSDT 1m (1714945898305 1714945620000)
+2024-05-06 00:51:37,080 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:51:37,081 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:51:37,229 INFO	 :: Binance missing 3 candles for BTCUSDT 1m (1714945898305 1714945620000)
+2024-05-06 00:51:37,230 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:51:37,232 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:51:50,337 INFO	 :: Binance missing 3 candles for BTCUSDT 1m (1714945911416 1714945620000)
+2024-05-06 00:51:50,338 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:51:50,339 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:51:57,326 INFO	 :: Binance missing 3 candles for BTCUSDT 1m (1714945918405 1714945620000)
+2024-05-06 00:51:57,327 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:51:57,329 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:52:03,453 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714945924531 1714945620000)
+2024-05-06 00:52:03,454 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:52:03,455 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:52:07,909 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714945929136 1714945620000)
+2024-05-06 00:52:07,910 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:52:07,910 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:52:08,060 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714945929136 1714945620000)
+2024-05-06 00:52:08,061 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:52:08,063 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:52:34,315 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714945955394 1714945620000)
+2024-05-06 00:52:34,316 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:52:34,318 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:52:43,107 INFO	 :: Binance missing 4 candles for BTCUSDT 1m (1714945964187 1714945620000)
+2024-05-06 00:52:43,107 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:52:43,108 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:52:59,082 INFO	 :: Binance missing 5 candles for BTCUSDT 1m (1714945980311 1714945620000)
+2024-05-06 00:52:59,082 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:52:59,082 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:52:59,233 INFO	 :: Binance missing 5 candles for BTCUSDT 1m (1714945980311 1714945620000)
+2024-05-06 00:52:59,234 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:52:59,234 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:53:25,046 INFO	 :: Binance missing 5 candles for BTCUSDT 1m (1714946006122 1714945620000)
+2024-05-06 00:53:25,046 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:53:25,046 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:53:30,622 INFO	 :: Binance missing 5 candles for BTCUSDT 1m (1714946011700 1714945620000)
+2024-05-06 00:53:30,622 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:53:30,622 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:53:34,627 INFO	 :: Binance missing 5 candles for BTCUSDT 1m (1714946015709 1714945620000)
+2024-05-06 00:53:34,629 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:53:34,630 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:53:36,029 INFO	 :: Binance missing 5 candles for BTCUSDT 1m (1714946017110 1714945620000)
+2024-05-06 00:53:36,029 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:53:36,029 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:54:21,430 INFO	 :: Binance missing 6 candles for BTCUSDT 1m (1714946062659 1714945620000)
+2024-05-06 00:54:21,431 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:54:21,431 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:54:21,581 INFO	 :: Binance missing 6 candles for BTCUSDT 1m (1714946062659 1714945620000)
+2024-05-06 00:54:21,581 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:54:21,582 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:55:24,245 INFO	 :: Binance missing 7 candles for BTCUSDT 1m (1714946125327 1714945620000)
+2024-05-06 00:55:24,245 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:55:24,246 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:56:08,554 INFO	 :: Binance missing 8 candles for BTCUSDT 1m (1714946169636 1714945620000)
+2024-05-06 00:56:08,554 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:56:08,554 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:56:08,716 INFO	 :: Binance missing 8 candles for BTCUSDT 1m (1714946169821 1714945620000)
+2024-05-06 00:56:08,717 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:56:08,717 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:56:08,866 INFO	 :: Binance missing 8 candles for BTCUSDT 1m (1714946169948 1714945620000)
+2024-05-06 00:56:08,866 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:56:08,866 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:56:25,652 INFO	 :: Binance missing 8 candles for BTCUSDT 1m (1714946186733 1714945620000)
+2024-05-06 00:56:25,653 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:56:25,654 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:56:48,638 INFO	 :: Binance missing 8 candles for BTCUSDT 1m (1714946209722 1714945620000)
+2024-05-06 00:56:48,639 ERROR	 :: error from callback <bound method BinanceFuturesClient._on_message of <modules.apis.binance_futures.BinanceFuturesClient object at 0x0000025CCDBF6520>>: __init__() takes from 2 to 3 positional arguments but 4 were given
+2024-05-06 00:56:48,639 ERROR	 :: Binance websocket connection error __init__() takes from 2 to 3 positional arguments but 4 were given
